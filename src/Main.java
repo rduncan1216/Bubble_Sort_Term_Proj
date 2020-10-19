@@ -7,7 +7,7 @@
 //This is a basic program to demonstrate a bubble sort using Java.
 //Program will ask for input from user and create an array with the input number of random
 //integers. The program will print the array before and after sorting. Sorting will be done with a
-//bubble sorting method.
+//bubble sorting method
 
 import java.util.Random;
 import java.util.Scanner;
